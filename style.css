@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(172, 255, 227);
+    color: blue;
+    padding: 9px;
+}
+
+header a {
+    border: 1px solid white;
+    border-collapse: collapse;
+    border-radius: 5px;
+    text-decoration: none;
+    color: blue;
+    background-color: white;
+    padding: 4px;
+    margin: 10px;
+}
+
+footer p {
+    background-color: rgb(63, 41, 255);
+    margin: 15px;
+    padding: 3px;
+}
+
+footer {
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 30px;
+    color: rgb(0, 60, 255);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(0, 60, 255);
+}
+
+.BDSM {
+    border: 2px solid rgb(0, 60, 255);
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(0, 60, 255);
+    background-color: rgb(172, 255, 227);
+    text-decoration: none;
+    margin: 10px;
+}
+
+.NC {
+    color: rgb(3, 0, 170);
+    background-color: rgb(172, 255, 227);
+    padding: 3px;
+}
+
+.AU {
+    text-align: center;
+    color: rgb(172, 255, 227);
+    background-color: rgb(86, 126, 255);
+    font-size: 30px;
+}
